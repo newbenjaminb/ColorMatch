@@ -6,7 +6,7 @@
 // via Red Green Blue versus
 // Hue Saturation Brightness sliders
 
-
+// github page https://newbenjaminb.github.io/ColorMatch/
 // GOALS :
 // put this on a server
 // later can put on server via github pages
@@ -182,7 +182,7 @@ function writeComments() {
   But the RGB difficulty is also about
   changing brightness, which involves
   changing 2 sliders at a time.<br>
-  © Benjamin Bergery 2023
+  © Benjamin Bergery 2024
   `);
 }
 
